@@ -3,6 +3,6 @@
     "start": "open index.html"
   },
   "devDependencies": {
-    "@types/extjs": "^4.2.34"
+    "@types/extjs": "4.2.34"
   }
 }
